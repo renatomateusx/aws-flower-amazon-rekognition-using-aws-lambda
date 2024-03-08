@@ -1,4 +1,4 @@
-# Project made as a challenge for flower recognition
+# AWS Project made as a challenge for flower recognition using Amazon Rekognition and AWS Lambda
 
 # Project Arch
 
