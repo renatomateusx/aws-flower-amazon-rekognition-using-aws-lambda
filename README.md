@@ -1,2 +1,4 @@
-# aws-flower-amazon-rekognition-using-aws-lambda
-Project made as a challenge for flower recognition
+# Project made as a challenge for flower recognition
+
+# Project Arch
+![Uploading diagram-aws-arch.png…]()
